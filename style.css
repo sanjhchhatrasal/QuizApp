@@ -73,6 +73,7 @@ body{
     #app {
     width: 60%;
     margin: 0 ;  
+     padding: 10px 20px; 
     }
     
 }
