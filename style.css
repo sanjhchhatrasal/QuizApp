@@ -71,8 +71,7 @@ body{
 }
 @media  (max-width: 520px) {
     #app {
-    width: 60%;
-    margin: 0 ;  
+    width: 60%; 
      padding: 10px 20px; 
     }
     
